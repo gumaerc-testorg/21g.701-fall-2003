@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the information regarding ser -estar.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-701-spanish-i-fall-2003/a1abff632f63dcd0cb3a5b4d3edc8ba8_MIT21G_701F03_22serestar.pdf
+file: /media/courses/21g-701-spanish-i-fall-2003/a1abff632f63dcd0cb3a5b4d3edc8ba8_MIT21G_701F03_22serestar.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: In-class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: Ser -Estar
 uid: a1abff63-2f63-dcd0-cb3a-5b4d3edc8ba8

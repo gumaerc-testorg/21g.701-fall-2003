@@ -2,8 +2,12 @@
 content_type: resource
 description: "This resource contains the information regarding encuesta-verbos ra\xED\
   z irregular."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-701-spanish-i-fall-2003/e6199bf06f54eaafbb51786c101f476a_MIT21G_701F03_8encue.pdf
+file: /media/courses/21g-701-spanish-i-fall-2003/e6199bf06f54eaafbb51786c101f476a_MIT21G_701F03_8encue.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: In-class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: "Encuesta-Verbos ra\xEDz irregular"
 uid: e6199bf0-6f54-eaaf-bb51-786c101f476a

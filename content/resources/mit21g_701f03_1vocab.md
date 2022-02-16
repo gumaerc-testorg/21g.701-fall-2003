@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the information regarding vocabulario de las presentaciones.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-701-spanish-i-fall-2003/1217234b86f7cc19d01d056e376ebf24_MIT21G_701F03_1vocab.pdf
+file: /media/courses/21g-701-spanish-i-fall-2003/1217234b86f7cc19d01d056e376ebf24_MIT21G_701F03_1vocab.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: In-class Activities
+parent_type: CourseSection
 resourcetype: Document
 title: 'Vocabulario de las presentaciones:'
 uid: 1217234b-86f7-cc19-d01d-056e376ebf24
