@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: 0cc77aeb-9d79-6c9b-9939-d35082c099f4
 resourcetype: Document
 title: Pretrito plural
 uid: 266ce1de-1976-9648-7ac7-321ef7b66450

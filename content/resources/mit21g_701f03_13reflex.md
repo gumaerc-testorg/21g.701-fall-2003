@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: 0cc77aeb-9d79-6c9b-9939-d35082c099f4
 resourcetype: Document
 title: "Reflex.-Transitivos-Rec\xEDprocos"
 uid: ac4253a8-b40e-0f1a-2761-033fa1ee1c3a

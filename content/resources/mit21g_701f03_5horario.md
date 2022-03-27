@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: 0cc77aeb-9d79-6c9b-9939-d35082c099f4
 resourcetype: Document
 title: "Agenda-d\xEDas/horas"
 uid: 426c4598-2a00-06fb-a178-25f84748dc1c

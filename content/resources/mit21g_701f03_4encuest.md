@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: 0cc77aeb-9d79-6c9b-9939-d35082c099f4
 resourcetype: Document
 title: Verbos-Entrevista-Encuesta
 uid: 6ded0036-b510-ce97-9eb7-e6e843161a8d

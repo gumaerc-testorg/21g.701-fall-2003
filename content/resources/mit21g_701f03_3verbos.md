@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: 0cc77aeb-9d79-6c9b-9939-d35082c099f4
 resourcetype: Document
 title: "Repaso-Verbos-adivina qui\xE9n"
 uid: 3b4051a1-6a59-0f8d-8ed9-486218738df4

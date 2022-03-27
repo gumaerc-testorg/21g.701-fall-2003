@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c40a25b0-ec79-84a4-b582-8bc6544c6c93
 resourcetype: Document
 title: "SP I - Clave Correcci\xF3n"
 uid: 8a4c7b4a-411a-4b38-fd19-f2e6d8f7b8b5

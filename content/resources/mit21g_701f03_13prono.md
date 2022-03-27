@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: 0cc77aeb-9d79-6c9b-9939-d35082c099f4
 resourcetype: Document
 title: Pron.Obj.Directo 1 y 2 persona
 uid: c331ce04-650e-1a42-d9f2-fc162fb3f3b6
