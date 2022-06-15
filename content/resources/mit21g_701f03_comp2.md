@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource contains the information regarding espa\xF1ol 1."
-file: /media/courses/21g-701-spanish-i-fall-2003/9262e471eab2f74edb4c6593e53d55c9_MIT21G_701F03_comp2.pdf
+file: /courses/21g-701-spanish-i-fall-2003/9262e471eab2f74edb4c6593e53d55c9_MIT21G_701F03_comp2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: "Espa\xF1ol 1"
 uid: 9262e471-eab2-f74e-db4c-6593e53d55c9
 ---
+This resource contains the information regarding español 1.
+

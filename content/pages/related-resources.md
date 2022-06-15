@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Section page written in English and Spanish.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
