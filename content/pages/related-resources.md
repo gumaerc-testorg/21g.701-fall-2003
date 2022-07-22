@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Section page written in English and Spanish.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: db4cec93-f931-cb32-90f5-93afc85fb7bc
 ---
@@ -7,7 +10,7 @@ uid: db4cec93-f931-cb32-90f5-93afc85fb7bc
 Recursos/Resources
 ------------------
 
-[LLaRC](http://llarc.mit.edu/) (Language Learning and Resource Center )
+[LLaRC](https://languages.mit.edu/) (Language Learning and Resource Center )
 
 [Destinos Online](https://www.learner.org/series/destinos-an-introduction-to-spanish/)
 

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Section page written in Spanish.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7a653a1f-9d46-65e7-e5d5-d1bbc0959db0
 ---
