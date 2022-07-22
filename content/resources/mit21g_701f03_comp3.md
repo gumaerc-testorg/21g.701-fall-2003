@@ -5,6 +5,7 @@ file: /courses/21g-701-spanish-i-fall-2003/810044d2ccddcd238a5efd108ea42c0d_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Comp.3
 uid: 810044d2-ccdd-cd23-8a5e-fd108ea42c0d
 ---
 This resource contains the information regarding Comp.3.
-

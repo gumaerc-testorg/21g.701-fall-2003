@@ -6,6 +6,7 @@ file: /courses/21g-701-spanish-i-fall-2003/8a4c7b4a411a4b38fd19f2e6d8f7b8b5_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "SP I - Clave Correcci\xF3n"
 uid: 8a4c7b4a-411a-4b38-fd19-f2e6d8f7b8b5
 ---
 This resource contains the information regarding SP I - Clave Corrección.
-

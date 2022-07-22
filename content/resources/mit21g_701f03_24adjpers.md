@@ -4,6 +4,7 @@ description: This resource contains the information regarding agresivo.
 file: /courses/21g-701-spanish-i-fall-2003/fdb476eb6cf5ae5f17dd2add6e98c467_MIT21G_701F03_24adjpers.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: agresivo
 uid: fdb476eb-6cf5-ae5f-17dd-2add6e98c467
 ---
 This resource contains the information regarding agresivo.
-

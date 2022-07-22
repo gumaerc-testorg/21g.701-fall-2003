@@ -5,6 +5,7 @@ file: /courses/21g-701-spanish-i-fall-2003/6c06faea2dc49e33626ce085ce2b0c03_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Comp.1
 uid: 6c06faea-2dc4-9e33-626c-e085ce2b0c03
 ---
 This resource contains the information regarding Comp.1.
-

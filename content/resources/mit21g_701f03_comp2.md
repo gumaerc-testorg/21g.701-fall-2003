@@ -5,6 +5,7 @@ file: /courses/21g-701-spanish-i-fall-2003/9262e471eab2f74edb4c6593e53d55c9_MIT2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Espa\xF1ol 1"
 uid: 9262e471-eab2-f74e-db4c-6593e53d55c9
 ---
 This resource contains the information regarding español 1.
-
