@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2003",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -35,6 +36,7 @@
     "website": "21g-701-spanish-i-fall-2003"
   },
   "learning_resource_types": [],
-  "site_uid": "d9495e6b-ce0e-4047-8807-89162dcaf3e7",
+  "site_uid": "75ffe4ab-f085-440c-a834-9328dee186fb",
+  "site_short_id": "21g.701-fall-2003",
   "title": "Course Metadata"
 }
