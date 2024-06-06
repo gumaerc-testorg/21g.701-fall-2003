@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding pron.obj.directo 1 y
   2 persona.
 file: /courses/21g-701-spanish-i-fall-2003/c331ce04650e1a42d9f2fc162fb3f3b6_MIT21G_701F03_13prono.pdf
+file_size: 522886
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

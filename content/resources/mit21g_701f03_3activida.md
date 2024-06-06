@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding parentescos.
 file: /courses/21g-701-spanish-i-fall-2003/fb1cf26475b2d797de412c8321f9ca75_MIT21G_701F03_3activida.pdf
+file_size: 68700
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

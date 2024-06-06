@@ -7,7 +7,7 @@ uid: c40a25b0-ec79-84a4-b582-8bc6544c6c93
 ---
 The table below lists the schedule of out of class assignments, with links the details about each (which are listed at the bottom of this page).
 
-*For OCW online learners*: the video episodes in {{% resource_link "0e3eccc4-85a5-471b-bb36-0bcc6af28c91" "Destinos: An Introduction to Spanish" %}} are available free online from Annenberg Learner.
+*For OCW online learners*: the video episodes in [Destinos: An Introduction to Spanish](https://www.learner.org/series/destinos-an-introduction-to-spanish/) are available free online from Annenberg Learner.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 CLASE
@@ -196,7 +196,7 @@ Hacer hoja de ejercicios lección 10.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Visita el {{% resource_link "fc802b29-de9c-4a78-b9f0-9d638e4f58f6" "Museo del Prado" %}} en Madrid. Explora las diferentes salas del museo y selecciona un cuadro de uno de los pintores mencionados en Destinos. ¿Cuál es el título del cuadro? ¿Qué colores predominan? Prepara una descripción corta para la clase y si puedes imprímelo y traélo a la clase.
+Visita el [Museo del Prado](http://www.museodelprado.es/en) en Madrid. Explora las diferentes salas del museo y selecciona un cuadro de uno de los pintores mencionados en Destinos. ¿Cuál es el título del cuadro? ¿Qué colores predominan? Prepara una descripción corta para la clase y si puedes imprímelo y traélo a la clase.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -307,7 +307,7 @@ Ver el episodio 17
 
 W. p. 175-180; (1997 edition: p. 154-157 ) Pretérito irregulares.
 
-Lectura: Poema de Pablo Neruda, Premio Noble de Literatura: "{{% resource_link "0fe88a39-ebad-4388-afc0-2b9faebad5c6" "Oda al tomate" %}}". Para más información sobre Neruda visita la {{% resource_link "1447df5b-1ef9-4211-8411-4e66ef17cfa4" "Página de Neruda" %}} por la Universidad de Chile, la que tiene su biografía, algunas obras y fotos.
+Lectura: Poema de Pablo Neruda, Premio Noble de Literatura: "[Oda al tomate](https://allpoetry.com/Oda-al-Tomate)". Para más información sobre Neruda visita la [Página de Neruda](http://es.wikipedia.org/wiki/Pablo_Neruda) por la Universidad de Chile, la que tiene su biografía, algunas obras y fotos.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 32
@@ -319,13 +319,13 @@ Hacer hoja de ejercicios lección 17. W p. 180-185; (1997 edition: p. 158-162) P
 
 Antes de ver las película, conoce más sobre la historia de la Argentina en este período conocido coma "la guerra sucia" consultando los siguientes sitios:
 
-{{% resource_link "ef5ac181-c51b-4c1b-bd3e-d21c47c334d1" "Galería de los desaparecidos" %}}
+[Galería de los desaparecidos](http://www.yendor.com/vanished/s-index.html)
 
-{{% resource_link "849fe99c-c7f0-4b49-a0a4-69aa709ae5cf" "Abuelas de la Plaza de Mayo" %}}
+[Abuelas de la Plaza de Mayo](http://www.abuelas.org.ar/)
 
-{{% resource_link "177f74b7-94d3-4648-b8d4-3d587cad039b" "Desaparecidos" %}}
+[Desaparecidos](http://www.desaparecidos.org/arg/)
 
-{{% resource_link "303bb337-3ef4-4e19-b4f2-a0b3dd67d607" "Madres de la Plaza de Mayo" %}}
+[Madres de la Plaza de Mayo](http://www.madres.org/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 33
@@ -403,9 +403,9 @@ Hacer hoja de ejercicios lección 21.  
 \*\*    
 Actividad\*\*: \*\_Pronóstico del tiempo\_\*. Consulta uno de los siguientes lugares para informarte del estado del tiempo en tres ciudades que Raquel ha visitado desde que comenzó la investigación y también las condiciones del tiempo para Boston.
 
-{{% resource_link "6d871b7d-babb-44fc-94e6-c3702f163038" "El tiempo en español Yahoo" %}}
+[El tiempo en español Yahoo](https://es-us.noticias.yahoo.com/clima/12758754)
 
-{{% resource_link "d8169044-8df6-4799-8acc-915269646906" "CNN en español" %}}
+[CNN en español](http://cnnenespanol.com/tiempo/)
 
 Responde a las siguientes preguntas:    
 ¿Qué tiempo hace hoy?    
