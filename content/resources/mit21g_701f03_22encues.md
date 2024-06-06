@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding encuesta: entrevista
   a tus compaeros para descubrir lo siguiente.'
 file: /courses/21g-701-spanish-i-fall-2003/39d3707b383e11f62d927808fb035392_MIT21G_701F03_22encues.pdf
+file_size: 70070
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains the information regarding encuesta-verbos ra\xED\
   z irregular."
 file: /courses/21g-701-spanish-i-fall-2003/e6199bf06f54eaafbb51786c101f476a_MIT21G_701F03_8encue.pdf
+file_size: 73792
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
