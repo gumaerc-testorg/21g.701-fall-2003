@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding episodio 12.
-file: /courses/21g-701-spanish-i-fall-2003/9f3012b4b9b9ab585e8ed2473a7d4016_MIT21G_701F03_12repas.pdf
+file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/9f3012b4b9b9ab585e8ed2473a7d4016_MIT21G_701F03_12repas.pdf
 file_size: 62738
 file_type: application/pdf
 learning_resource_types: []
