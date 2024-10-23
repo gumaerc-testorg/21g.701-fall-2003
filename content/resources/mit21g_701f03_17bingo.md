@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding bingo Ch.16-17 (irreg.verbs).
-file: /courses/21g-701-spanish-i-fall-2003/5a8b5ae42ad126cd0535dd9342d39ebe_MIT21G_701F03_17bingo.pdf
+file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/5a8b5ae42ad126cd0535dd9342d39ebe_MIT21G_701F03_17bingo.pdf
 file_size: 548246
 file_type: application/pdf
 learning_resource_types: []
