@@ -31,17 +31,15 @@ uid: db4cec93-f931-cb32-90f5-93afc85fb7bc
 
 [Cuaderno de Ejercicios en la Red](http://www.trentu.ca/academic/modernlanguages/spanish/masarriba/), ejercicios de vocabulario y gramática.
 
-[Ejercicios de gramática](http://mld.ursinus.edu/~jarana/Ejercicios/), página de Juan Ramón de Arana. Ejercicios de puntos gramaticales y vocabulario con revisión automática (self-check).
-
 [Tutoría de español](http://www.studyspanish.com/tutorial.htm), Spanish Grammar Tutorials.
 
 ## Periódicos y Revistas/Newspapers and Magazines
 
 [Spanish Language Newspapers and Magazines](http://libguides.mit.edu/content.php?pid=146063&sid=1247903), MIT Humanities Library.
 
-[Prensa Latina](https://m.prensa-latina.cu/), índice de periódicos en español y otros idiomas.
+[Prensa Latina](https://www.prensa-latina.cu/), índice de periódicos en español y otros idiomas.
 
-[Tecla](http://www.mec.es/exterior/uk/es/tecla/pruebatecla.shtml) Revista semanal para estudiantes de español con artículos cortos, listas de vocabulario y ejercicios.
+[Tecla](https://www.libreria.educacion.gob.es/libro/tecla-no-2-2024-revista-de-la-consejeria-de-educacion-en-el-reino-unido-e-irlanda_184412/) Revista semanal para estudiantes de español con artículos cortos, listas de vocabulario y ejercicios.
 
 [CNN en español](http://cnnenespanol.com/)
 
