@@ -41,7 +41,7 @@ W p. 10-14 (1997 edition: p. 9-12: Artículos y nombres; género y número. Lect
 
 D p. 18- 21
 
-W p. 15-18; (1997 edition: p. 12-15) Posesivos    
+W p. 15-18; (1997 edition: p. 12-15) Posesivos     
 Worksheet (Hoja de ejercicios) & **Self-test** Lecciones 1 & 2 W p. 285-286; (1997 edition p. 255-256).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -78,10 +78,10 @@ W p. 32-38 (1997 edition: p. 28-33) Lectura sobre Raquel Rodríguez; Presente de
 
 D p. 41-45
 
-W p. 38-41; (1997 edition: p. 33-36) Adjetivos y concordancia.    
-[Composición 1](#a)
+W p. 38-41; (1997 edition: p. 33-36) Adjetivos y concordancia.     
+[Composición 1](https://ocw-studio.odl.mit.edu/sites/21g-701-spanish-i-fall-2003/type/page/edit/c40a25b0-ec79-84a4-b582-8bc6544c6c93/#a)
 
-[Clave de corrección para las composiciones](#d)
+[Clave de corrección para las composiciones](https://ocw-studio.odl.mit.edu/sites/21g-701-spanish-i-fall-2003/type/page/edit/c40a25b0-ec79-84a4-b582-8bc6544c6c93/#d)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -183,7 +183,7 @@ Ver episodio 10
 
 W p. 95-99; (1997 edition: p. 84-87): Lectura sobre Manuel Díaz; Adjetivos.
 
-[Composición 2](#b)
+[Composición 2](https://ocw-studio.odl.mit.edu/sites/21g-701-spanish-i-fall-2003/type/page/edit/c40a25b0-ec79-84a4-b582-8bc6544c6c93/#b)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -323,8 +323,6 @@ Antes de ver las película, conoce más sobre la historia de la Argentina en est
 
 [Abuelas de la Plaza de Mayo](http://www.abuelas.org.ar/)
 
-[Desaparecidos](http://www.desaparecidos.org/arg/)
-
 [Madres de la Plaza de Mayo](http://www.madres.org/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -399,24 +397,24 @@ W p. 223-227; (1997 edition: p. 197-200): Lectura sobre Raquel. Imperfecto.
 
 W p. 227-234; (1997 edition: p. 200-207): Expresiones con hacer y tener. Comparativos.
 
-Hacer hoja de ejercicios lección 21.    
-\*\*    
+Hacer hoja de ejercicios lección 21.     
+\*\*     
 Actividad\*\*: \*\_Pronóstico del tiempo\_\*. Consulta uno de los siguientes lugares para informarte del estado del tiempo en tres ciudades que Raquel ha visitado desde que comenzó la investigación y también las condiciones del tiempo para Boston.
 
 [El tiempo en español Yahoo](https://es-us.noticias.yahoo.com/clima/12758754)
 
 [CNN en español](http://cnnenespanol.com/tiempo/)
 
-Responde a las siguientes preguntas:    
-¿Qué tiempo hace hoy?    
-¿Cuál es el pronóstico para los próximos días?    
+Responde a las siguientes preguntas:     
+¿Qué tiempo hace hoy?     
+¿Cuál es el pronóstico para los próximos días?     
 ¿Cuál es la temperatura máxima? ¿ mínima?
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 42
 {{< tdclose >}}{{< tdopen >}}
 
-[Composición # 3](#c)
+[Composición # 3](https://ocw-studio.odl.mit.edu/sites/21g-701-spanish-i-fall-2003/type/page/edit/c40a25b0-ec79-84a4-b582-8bc6544c6c93/#c)
 
 D p. 215-222
 
