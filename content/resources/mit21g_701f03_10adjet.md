@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding adjetivos/ novio raquel.
-file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/3601a9ab4fe9ffd3ba0152b12af598f5_MIT21G_701F03_10adjet.pdf
+file: /courses/21g-701-spanish-i-fall-2003/3601a9ab4fe9ffd3ba0152b12af598f5_MIT21G_701F03_10adjet.pdf
 file_size: 123221
 file_type: application/pdf
 learning_resource_types: []

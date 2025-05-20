@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding actividad verbo SER.
-file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/5f2f4d91fcab4ab9de756b1ca82ae20d_MIT21G_701F03_2verboser.pdf
+file: /courses/21g-701-spanish-i-fall-2003/5f2f4d91fcab4ab9de756b1ca82ae20d_MIT21G_701F03_2verboser.pdf
 file_size: 62273
 file_type: application/pdf
 learning_resource_types: []

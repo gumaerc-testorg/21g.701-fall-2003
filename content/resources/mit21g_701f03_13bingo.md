@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding bingo - pret. verbos
   regulares.
-file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/4cd246761b8883b7e2309c291ee6653e_MIT21G_701F03_13bingo.pdf
+file: /courses/21g-701-spanish-i-fall-2003/4cd246761b8883b7e2309c291ee6653e_MIT21G_701F03_13bingo.pdf
 file_size: 572637
 file_type: application/pdf
 learning_resource_types: []
