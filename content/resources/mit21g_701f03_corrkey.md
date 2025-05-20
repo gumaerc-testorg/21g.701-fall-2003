@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding SP I - Clave Correcci\xF3\
   n."
-file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/8a4c7b4a411a4b38fd19f2e6d8f7b8b5_MIT21G_701F03_corrkey.pdf
+file: /courses/21g-701-spanish-i-fall-2003/8a4c7b4a411a4b38fd19f2e6d8f7b8b5_MIT21G_701F03_corrkey.pdf
 file_size: 527352
 file_type: application/pdf
 learning_resource_types:

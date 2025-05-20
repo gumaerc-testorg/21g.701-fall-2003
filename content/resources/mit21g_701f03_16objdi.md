@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding obj.directo/indirecto.
-file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/8c01e685865f45278e23698229f3e678_MIT21G_701F03_16objdi.pdf
+file: /courses/21g-701-spanish-i-fall-2003/8c01e685865f45278e23698229f3e678_MIT21G_701F03_16objdi.pdf
 file_size: 61762
 file_type: application/pdf
 learning_resource_types: []

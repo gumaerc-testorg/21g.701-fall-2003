@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource contains the information regarding agenda-d\xEDas/horas."
-file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/426c45982a0006fba17825f84748dc1c_MIT21G_701F03_5horario.pdf
+file: /courses/21g-701-spanish-i-fall-2003/426c45982a0006fba17825f84748dc1c_MIT21G_701F03_5horario.pdf
 file_size: 613987
 file_type: application/pdf
 learning_resource_types: []

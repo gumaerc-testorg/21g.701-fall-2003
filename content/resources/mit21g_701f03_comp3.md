@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Comp.3.
-file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/810044d2ccddcd238a5efd108ea42c0d_MIT21G_701F03_comp3.pdf
+file: /courses/21g-701-spanish-i-fall-2003/810044d2ccddcd238a5efd108ea42c0d_MIT21G_701F03_comp3.pdf
 file_size: 67679
 file_type: application/pdf
 learning_resource_types:
