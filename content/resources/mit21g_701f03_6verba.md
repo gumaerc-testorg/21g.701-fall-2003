@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding repaso-verbos-adivina\
   \ qui\xE9n."
-file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/c1fce76a6d3a2fcd01c333278ade0a83_MIT21G_701F03_6verba.pdf
+file: /courses/21g-701-spanish-i-fall-2003/c1fce76a6d3a2fcd01c333278ade0a83_MIT21G_701F03_6verba.pdf
 file_size: 524303
 file_type: application/pdf
 learning_resource_types: []
