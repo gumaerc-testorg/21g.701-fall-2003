@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding ser -estar.
-file: /courses/21g-701-spanish-i-fall-2003/a1abff632f63dcd0cb3a5b4d3edc8ba8_MIT21G_701F03_22serestar.pdf
+file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/a1abff632f63dcd0cb3a5b4d3edc8ba8_MIT21G_701F03_22serestar.pdf
 file_size: 87206
 file_type: application/pdf
 learning_resource_types: []
