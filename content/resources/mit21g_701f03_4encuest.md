@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding verbos-entrevista-encuesta.
-file: /courses/21g-701-spanish-i-fall-2003/6ded0036b510ce979eb7e6e843161a8d_MIT21G_701F03_4encuest.pdf
+file: /ol-ocw-studio-app/courses/21g-701-spanish-i-fall-2003/6ded0036b510ce979eb7e6e843161a8d_MIT21G_701F03_4encuest.pdf
 file_size: 607260
 file_type: application/pdf
 learning_resource_types: []
